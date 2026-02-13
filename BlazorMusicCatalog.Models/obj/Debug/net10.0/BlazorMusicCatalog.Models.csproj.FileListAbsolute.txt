@@ -1,0 +1,12 @@
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/bin/Debug/net10.0/BlazorMusicCatalog.Models.deps.json
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/bin/Debug/net10.0/BlazorMusicCatalog.Models.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/bin/Debug/net10.0/BlazorMusicCatalog.Models.pdb
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/obj/Debug/net10.0/BlazorMusicCatalog.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/obj/Debug/net10.0/BlazorMusicCatalog.Models.AssemblyInfoInputs.cache
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/obj/Debug/net10.0/BlazorMusicCatalog.Models.AssemblyInfo.cs
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/obj/Debug/net10.0/BlazorMusicCatalog.Models.csproj.CoreCompileInputs.cache
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/obj/Debug/net10.0/BlazorMusicCatalog.Models.sourcelink.json
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/obj/Debug/net10.0/BlazorMusicCatalog.Models.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/obj/Debug/net10.0/refint/BlazorMusicCatalog.Models.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/obj/Debug/net10.0/BlazorMusicCatalog.Models.pdb
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog.Models/obj/Debug/net10.0/ref/BlazorMusicCatalog.Models.dll
