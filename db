@@ -1,1 +1,5 @@
 create database AlbumMusicCatalog;
+
+use AlbumMusicCatalog;
+
+select * from [dbo].[__EFMigrationsHistory]
