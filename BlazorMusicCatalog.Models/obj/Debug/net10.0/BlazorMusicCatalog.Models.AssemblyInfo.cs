@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorMusicCatalog.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1038c066a5ed3423e3bd946947768a4b0e5c319e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3bd5a0c70460b42f09697d48a8e220ecd76af0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorMusicCatalog.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorMusicCatalog.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

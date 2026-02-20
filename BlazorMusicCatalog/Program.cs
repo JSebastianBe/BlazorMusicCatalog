@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using BlazorMusicCatalog.Data;
+using BlazorMusicCatalog.Data.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddScoped<AlbumMusicCatalogContext>();
+builder.Services.AddScoped<IAlbumServices, AlbumService>();
 
 var app = builder.Build();
 

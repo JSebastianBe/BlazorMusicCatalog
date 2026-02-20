@@ -26,6 +26,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog/Pages/AlbumAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWxidW1BZGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog/Pages/AlbumView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWxidW1WaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog/Pages/SongBlock.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU29uZ0Jsb2NrLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorMusicCatalog/BlazorMusicCatalog/Shared/SurveyPrompt.razor]

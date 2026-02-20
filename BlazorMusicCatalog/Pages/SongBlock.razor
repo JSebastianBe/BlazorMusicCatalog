@@ -1,0 +1,38 @@
+﻿@using System.IO;
+
+<table class="table">
+    <tr>
+        <td>Nombre</td>
+        <td><input type="text" @bind="Song.Name"></td>
+    </tr>
+    <tr>
+        <td>Archivo</td>
+        <td><InputFile OnChange="LoadSong" /></td>
+    </tr>
+</table>
+
+@code {
+    [Parameter]
+    public Song Song { get; set; }
+
+    [Parameter]
+    public EventCallback<Song> OnSongChanged { get; set; }
+
+    async Task LoadSong(InputFileChangeEventArgs e)
+    {
+        var folderName = Path.Combine("wwwroot", "songs");
+        var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), folderName);
+        var fullPath = Path.Combine(pathToSave, e.File.Name.Replace(" ", "-"));
+
+        Song.Extension = Path.GetExtension(e.File.Name);
+        Song.Path = e.File.Name.Replace(" ", "-");
+
+        using(var ms = new MemoryStream())
+        {
+            await e.File.OpenReadStream(Int32.MaxValue).CopyToAsync(ms);
+            var bytes = ms.ToArray();
+            await File.WriteAllBytesAsync(fullPath, bytes);
+        }
+        await OnSongChanged.InvokeAsync(Song);
+    }
+}

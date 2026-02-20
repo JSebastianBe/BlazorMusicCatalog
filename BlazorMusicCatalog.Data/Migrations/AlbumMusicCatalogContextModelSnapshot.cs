@@ -35,7 +35,6 @@ namespace BlazorMusicCatalog.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<byte[]>("CoverImage")
-                        .IsRequired()
                         .HasColumnType("varbinary(max)");
 
                     b.Property<string>("Description")
@@ -72,6 +71,9 @@ namespace BlazorMusicCatalog.Data.Migrations
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Number")
+                        .HasColumnType("int");
 
                     b.Property<string>("Path")
                         .IsRequired()
